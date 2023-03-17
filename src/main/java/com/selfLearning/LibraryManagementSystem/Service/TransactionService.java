@@ -62,7 +62,7 @@ public class TransactionService {
             transaction.setTransactionStatus(TransactionStatus.FAILED);
             transactionRepository.save(transaction);
             System.out.println("Invalid BookId! " + e.getMessage());
-            return "Invalid bookId \nIssue operation failed!";
+            return "Invalid bookId! \nIssue operation failed!";
         }
 
         //Book can be issued successfully
