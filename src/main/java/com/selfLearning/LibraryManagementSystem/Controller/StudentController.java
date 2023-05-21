@@ -26,12 +26,12 @@ public class StudentController {
     }
 
 //    get student by particular age(using inbuilt custom method)
-//    update email
     /* Working Fine */
     @GetMapping("/find_by_age")
     public List<StudentResponseDto> findByAge(@RequestParam int inputAge) {
         return studentService.findByAge(inputAge);
     }
+
     /* Working Fine */
     @PutMapping("/update_email")
     public String updateEmail(@RequestParam int studentId, @RequestParam String newEmail) {
