@@ -1,9 +1,9 @@
 # Library-Management-System
 Self learning project.
 
-Wrote APIs to perform some basic operations in a library.
+Developed APIs to perform some basic operations in a library.
 
-Below are the representation of these APIs.
+Below are the representation of these APIs using Swagger.
 
 
 <img height="1000" src="https://sat02pap004files.storage.live.com/y4mgWgWCW5ef8ErIvWFNv6snzxjPr4bXk7lDI5jWDrKtkDr6RiDDqgSaWEbnHrWJsTr8F0QHVeq19uBGufElD-cf21EdCrG8XkfTkSf4-L72_lucKcOctNCeEkBhqnxBcDJnaMmDJlaZnzd3OJS67pazTN7r53-W2NFtyb45Y0rbXuaWciKGqLoyepKhBPZCTJf?width=1920&height=1000&cropmode=none" width="1920"/>
